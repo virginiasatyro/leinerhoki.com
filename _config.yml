@@ -13,7 +13,7 @@ title                    : "Leíner Hoki"
 title_separator          : "-"
 name                     : &name "Leíner Hoki"
 description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : "http://localhost:4000" # Use localhost para desenvolvimento local
+url                      : "https://leinerhoki.com" # Use localhost para desenvolvimento local
 baseurl                  : "" # deixe vazio para desenvolvimento local
 repository               : "academicpages/academicpages.github.io"
 
